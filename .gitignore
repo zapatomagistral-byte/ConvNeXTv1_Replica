@@ -1,0 +1,12 @@
+# Ignore all files except Next100.py and readme.md
+*
+!Next100.py
+!readme.md
+!.gitignore
+
+# Ignore standard system/cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
